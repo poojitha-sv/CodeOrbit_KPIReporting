@@ -12,6 +12,11 @@ A small retail store selling Electronics, Furniture, and Stationery, using the s
 4. Top Category Revenue Share (Furniture) - 47.6%
 5. Digital Payment Adoption Rate - 75.0%
 
+## Repo Link
+ https://github.com/poojitha-sv/CodeOrbit_KPIReporting.git
+
+
+
 ## Files here
 - cleaned_business_data.csv - the sample dataset used
 - calculate_kpis.py - script that calculates all 5 KPIs
